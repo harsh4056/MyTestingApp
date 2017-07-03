@@ -76,8 +76,8 @@ public class Welcome extends AppCompatActivity implements GoogleApiClient.Connec
     String last_donated_date,recieved,displayname,displaycredit,ss;
 
 
-    final String url="http://192.168.43.36/php/test_user_single.php";
-    final String date_url = "http://192.168.43.36/php/date.php";
+    final String url="http://192.168.225.133/php/test_user_single.php";
+    final String date_url = "http://192.168.225.133/php/date.php";
     //RequestQueue requestQueue ;
     Bundle b;
     @Override
@@ -431,4 +431,20 @@ public class Welcome extends AppCompatActivity implements GoogleApiClient.Connec
 
 
     }
+
+
+
+    public void recipient(View v){
+
+
+        Intent i = new Intent(Welcome.this,RecipientActivity.class);
+        startActivity(i);
+
+
+
+
+    }
+
+
+
 }

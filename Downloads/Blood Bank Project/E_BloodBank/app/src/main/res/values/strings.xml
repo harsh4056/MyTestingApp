@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">E_BloodBank</string>
-    <string name = "forgot_detail">Please enter the OTP sent to your registered phone number:</string>
+    <string name="forgot_detail">Please enter the OTP sent to your registered phone number:</string>
 
     <string-array name="spinner">
         <item></item>
@@ -8,4 +8,21 @@
         <item>Male</item>
         <item>Other</item>
     </string-array>
+
+
+    <string-array name="blood_groups">
+        <item>O+</item>
+        <item>A+</item>
+        <item>B+</item>
+        <item>AB+</item>
+        <item>O-</item>
+        <item>A-</item>
+        <item>B-</item>
+        <item>AB-</item>
+    </string-array>
+
+    <string name="title_activity_recipient">RecipientActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_maps">Map</string>
 </resources>

@@ -44,7 +44,7 @@ public class DonorActivity extends AppCompatActivity{
     Bundle b;
     List<String> y; double bank_dis;
     Location location, location_bank;
-    final String url = "http://192.168.43.36/php/bloodbanklist.php";
+    final String url = "http://192.168.225.133/php/bloodbanklist.php";
     RequestQueue requestQueue;
     @Override
     protected void onCreate(Bundle savedInstanceState) {

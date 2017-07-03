@@ -37,7 +37,7 @@ import static com.example.pdg.e_bloodbank.R.layout.forgotpass;
 public class MainActivity extends AppCompatActivity {
 
     ImageView imageView;
-    final String url="http://192.168.43.36/php/loginScript.php";
+    final String url="http://192.168.225.133/php/loginScript.php";
     Button login;
     EditText username, password; Bundle b;
     String u,p; Animation st;
