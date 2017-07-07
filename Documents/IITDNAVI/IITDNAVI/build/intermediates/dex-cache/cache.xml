@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Assistech\.android\build-cache\443adc5d3bf7525ac35982b944a995150a40cc93\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="C:\Users\Assistech\AndroidStudioProjects\IITDNAVI\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1f21df012201d9c3fd89c5f70eb87dbb3e244330\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Assistech\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.22.0\d441fc58329c4a4c067acec04ac361627f66ecc8\google-http-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d441fc58329c4a4c067acec04ac361627f66ecc8">
+        <dex dex="C:\Users\Assistech\AndroidStudioProjects\IITDNAVI\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-1.22.0_af174e55e93bb4b77b9674b247fc1684a6ae8451\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Assistech\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-gson\1.20.0\9204765f39000f6109c927ac66c7963bf9c7df19\google-http-client-gson-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9204765f39000f6109c927ac66c7963bf9c7df19">
+        <dex dex="C:\Users\Assistech\AndroidStudioProjects\IITDNAVI\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-gson-1.20.0_d8b4db28c79ed82df7220d11895e82fcd8d145c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Assistech\AndroidStudioProjects\IITDNAVI\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Assistech\AndroidStudioProjects\IITDNAVI\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_132201aa73c745687f2f7ac22eb982941b10a101\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Assistech\.android\build-cache\5d1332139b1a7aa08a155a36347da831d22c2bfe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="C:\Users\Assistech\AndroidStudioProjects\IITDNAVI\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_849da73620df7e9240ebda5189ba5915bf0377bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Assistech\AndroidStudioProjects\IITDNAVI\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b0ddf3ea4fb5f1914e3f41c4c921ea23dbc20bda">
+        <dex dex="C:\Users\Assistech\AndroidStudioProjects\IITDNAVI\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_bf3bb20ff7f39261113fc0c60734d2a39b06dec4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Assistech\.gradle\caches\modules-2\files-2.1\com.google.apis\google-api-services-vision\v1-rev357-1.22.0\5b1dddd789d98937da4fd53d45cad463e90e1f65\google-api-services-vision-v1-rev357-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5b1dddd789d98937da4fd53d45cad463e90e1f65">
+        <dex dex="C:\Users\Assistech\AndroidStudioProjects\IITDNAVI\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-services-vision-v1-rev357-1.22.0_913c5f6cd6c0bdbd13565d88f06237e709b2fd17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Assistech\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\Users\Assistech\AndroidStudioProjects\IITDNAVI\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-1.3.9_ebca74964127b0312394f4216700f39a2a695097\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Assistech\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.22.0\7a0fe12b7d8189a821934d6f9d6586d00180e461\google-api-client-android-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7a0fe12b7d8189a821934d6f9d6586d00180e461">
+        <dex dex="C:\Users\Assistech\AndroidStudioProjects\IITDNAVI\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-client-android-1.22.0_074f5f6c1e57a310758909ce2f297d9ea52619b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Assistech\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.5\2852e6e05fbb95076fc091f6d1780f1f8fe35e0f\commons-io-2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2852e6e05fbb95076fc091f6d1780f1f8fe35e0f">
+        <dex dex="C:\Users\Assistech\AndroidStudioProjects\IITDNAVI\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-io-2.5_3a3b630ffb24931899e5c8d29ed77b7b953aeb8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Assistech\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.22.0\cc014d64ae11117e159d334c99d9c246d9b36f44\google-http-client-jackson2-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cc014d64ae11117e159d334c99d9c246d9b36f44">
+        <dex dex="C:\Users\Assistech\AndroidStudioProjects\IITDNAVI\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-jackson2-1.22.0_37eec91f28574a7f17687508d26d18e730cd3689\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Assistech\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.1\2e66da15851f9f5b5079228f856c2f090ba98c38\gson-2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e66da15851f9f5b5079228f856c2f090ba98c38">
+        <dex dex="C:\Users\Assistech\AndroidStudioProjects\IITDNAVI\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.1_e42c0d753a4a79f7757c728e5af332c77f6a866a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Assistech\.android\build-cache\3734a358c6c6540275c0093d35d725ee5ae8a5cf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="C:\Users\Assistech\AndroidStudioProjects\IITDNAVI\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b27be6b93b741bbba9008db51f7058c95ed5a4e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Assistech\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.22.0\6d1e1a76a16a244ab2f41775791be1dd0ec2878a\google-http-client-android-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6d1e1a76a16a244ab2f41775791be1dd0ec2878a">
+        <dex dex="C:\Users\Assistech\AndroidStudioProjects\IITDNAVI\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-android-1.22.0_e0b4a0d3f4d7f810c577cc4c0e6c54898716cf91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Assistech\.android\build-cache\4105f680f425fa9471d21eba86facfe89202ac33\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="C:\Users\Assistech\AndroidStudioProjects\IITDNAVI\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_96b09f9e70a3f7f0bf16ddf3251b8f331e6e5a3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Assistech\.android\build-cache\5bc868429dcd6a1a1e6053aef16106ce4c226af2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="C:\Users\Assistech\AndroidStudioProjects\IITDNAVI\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_546b5c2ea65e5e2f4bd8b01e908ad0d495885f30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Assistech\.android\build-cache\621ac9ea92562b401aa4821d532f212a0b80cd04\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="C:\Users\Assistech\AndroidStudioProjects\IITDNAVI\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6f7a83b198fb9d7f39e03630448ce898bd203ebc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Assistech\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.22.0\244350c0c845c583717ade13f5666a452fd0cfa\google-api-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0244350c0c845c583717ade13f5666a452fd0cfa">
+        <dex dex="C:\Users\Assistech\AndroidStudioProjects\IITDNAVI\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-client-1.22.0_ef3d1db24515b5252ff3ae818537e8a22eecd3e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Assistech\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.22.0\1d63f369ac78e4838a3197147012026e791008cb\google-oauth-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1d63f369ac78e4838a3197147012026e791008cb">
+        <dex dex="C:\Users\Assistech\AndroidStudioProjects\IITDNAVI\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-oauth-client-1.22.0_1c957b06e6a7711f1f56feeca2438a253f7ffec5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Assistech\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="C:\Users\Assistech\AndroidStudioProjects\IITDNAVI\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.1.3_c0854c3adab840b4111388c95d5ee325c87248eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Assistech\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\17.0\463f8378feba44df7ba7cd9272d01837dad62b36\guava-jdk5-17.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
+        <dex dex="C:\Users\Assistech\AndroidStudioProjects\IITDNAVI\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-jdk5-17.0_d67fcc80325322a53f1cda2439268cf1504572fe\classes.dex" />
+    </item>
+
+</items>
