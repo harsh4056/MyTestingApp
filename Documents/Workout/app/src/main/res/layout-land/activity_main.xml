@@ -9,6 +9,11 @@ android:layout_height="match_parent">
         class="com.example.moon.workout.WorkoutListFragment"
         android:layout_width="0dp"
         android:layout_height="match_parent"
-        android:layout_weight="1" />
+        android:layout_weight="0.4" />
+    <FrameLayout
 
+        android:id="@+id/fragment_container"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.6" />
 </LinearLayout>
